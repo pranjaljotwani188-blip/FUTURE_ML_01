@@ -6,7 +6,7 @@
 ##  Objective
 Build a machine learning model to forecast future sales/demand using historical business data, enabling data-driven inventory and business decisions.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
